@@ -1,0 +1,1 @@
+# SUAT_Course_Template_Latex
